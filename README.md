@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple Broadway clone site with Ruby on rails, this is dummy project for my youtube channel. study porpose only.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.0
 
 * System dependencies
 
